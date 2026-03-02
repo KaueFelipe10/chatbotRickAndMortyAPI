@@ -1,7 +1,5 @@
 # 🧪 Rick and Morty Multiverse Search 🛸
 
-![Rick and Morty Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Rick%20and%20Morty%20Bot&fontSize=70&animation=fadeIn)
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![LangGraph](https://img.shields.io/badge/Powered%20By-LangGraph-orange?style=for-the-badge)
 
