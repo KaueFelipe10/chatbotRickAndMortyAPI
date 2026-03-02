@@ -33,3 +33,9 @@ python -m venv .venv
 # Instalar todas as dependências de uma vez
 pip install -r requirements.txt
 ```
+
+### 3. Execução
+Agora é só ligar o bot:
+```bash
+python test/bot.py
+```
