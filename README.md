@@ -20,11 +20,4 @@ Wubba Lubba Dub Dub! Este é um bot interdimensional desenvolvido com **Python**
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/KaueFelipe10/chatbotRickAndMortyAPI.git](https://github.com/KaueFelipe10/chatbotRickAndMortyAPI.git)
-cd chatbotRickAndMortyAPI
-
-# Criação e ativação do ambiente virtual, instalação e execução
-python -m venv .venv
-.\.venv\Scripts\activate
-pip install requests langgraph
-python test/bot.py
+git clone https://github.com/KaueFelipe10/chatbotRickAndMortyAPI.git
